@@ -1,0 +1,19 @@
+{
+  "author": "Daniel Aristizabal <aristizabal.daniel@gmail.com>",
+  "name": "calc",
+  "description": "Calcula el precio de los bitcoins en pesos colombianos",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cronopio/calc.git"
+  },
+  "main": "calc.js",
+  "engines": {
+    "node": "~v0.4.12"
+  },
+  "dependencies": {
+    "hook.io": "0.7.x",
+    "hook.io-request": "0.4.x"
+  },
+  "devDependencies": {}
+}
